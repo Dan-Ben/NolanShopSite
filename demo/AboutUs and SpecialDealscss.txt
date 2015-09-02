@@ -1,0 +1,111 @@
+#aboutusvideo { border-style: ridge; float: left; height: 31.250em; width:40%; background-color: red; margin-top: 2%;
+
+
+
+
+
+
+#aboutusid {width:100%;
+margin-top: 5%;
+margin-bottom:5%;
+ background-color: #C9C9C9;
+ border-top-left-radius: 10% 10%;
+border-top-right-radius: 10% 10%;
+border-bottom-left-radius: 10% 10%;
+border-bottom-right-radius: 10% 10%;
+padding: 2% 2% 2% 2%;
+height: 1100px;}
+
+.aboutusImage {float: right;
+width: 30%;
+ 
+height: 170px;
+margin: 2% 0 2% 2%;
+border-style: ridge;
+}
+
+.aboutusImagefloatright{
+float: left;
+width: 30%;
+
+height: 170px;
+margin: 2% 2% 2% 0;
+border-style: ridge;
+}
+/*CSS for Privacy and policy and for other headers*/
+.aboutusheader {text-align: center;
+font-size: 300%;
+
+font-family: 'Playball', cursive;
+color: #362812;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.specialDeals {width: 50%;
+ float:left;
+ background-color: #C9C9C9; 
+ border-bottom-left-radius: 29% 9%;
+height: 700px; border-top-left-radius: 30% 10%;
+margin-top:5%;
+ }
+ .specialDealsc {width: 50%;
+ margin-top: 5%;
+float:right;
+background-color: #C9C9C9;
+border-top-right-radius: 30% 30%;
+height: 200px;}
+
+ .specialDealsb {width: 46%;
+ float: right;
+  background-color: #C9C9C9;
+  height: 500px;
+padding: 0 2% 0 2%;
+border-bottom-right-radius: 33% 13%;}
+ img.christmas1 {position: relative;  width: 70%; height: 80%;
+ margin: 6%;
+ border-bottom-right-radius: 10% 10%;
+ border-top-right-radius: 10% 10%;
+ border-top-left-radius: 10% 10%;
+  border-bottom-left-radius: 10% 10%;}
+ 
+
+#content4
+
+.specialdealsfont{
+
+font-size: 120px;
+margin: 2% 0 2% 0;
+text-align:justify;
+color: #362812;
+background-color: #C9C9C9;
+ border-top-left-radius: 10% 10%;
+border-top-right-radius: 10% 10%;
+border-bottom-left-radius: 10% 10%;
+border-bottom-right-radius: 10% 10%;
+padding: 2% 2% 2% 2%;
+height: 600px;
+
+
+}
+.h3{text-align: center;
+color: #362812;
+font-size: 120%;}
